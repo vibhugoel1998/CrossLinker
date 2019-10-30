@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "650072774483",
+    "firebase_url": "https://croinker.firebaseio.com",
+    "project_id": "croinker",
+    "storage_bucket": "croinker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650072774483:android:2969cc5c99bcc07810b3a6",
+        "android_client_info": {
+          "package_name": "com.example.vibhu.crosslinker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650072774483-j2pf26n7n27eu03n9pm7m8ug27s92pkg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vibhu.crosslinker",
+            "certificate_hash": "34297e5f53951cbacd2b37741b7ae5f2c13dd96b"
+          }
+        },
+        {
+          "client_id": "650072774483-kjo599a4nseobq1k9mugflvsqpfv128h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDlRxcG0YiUCBlHjlJOpHdT5U3Q8yK6yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650072774483-kjo599a4nseobq1k9mugflvsqpfv128h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
